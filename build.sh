@@ -1,0 +1,1 @@
+docker build -t registry.build.nextupsoftware.com/url-to-pdf-api:latest .
